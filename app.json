@@ -1,6 +1,14 @@
 {
     "name": "Checker",
-    "description": "A website to check cards.",
-    "repository": "https://github.com/legendarykeys/Cc",
-    "logo": "https://github.com/jainamoswal/IP-Details/blob/main/Assets/image.jpg?raw=true",
- }
+    "description": "Checks Cc",
+    "keywords": [
+        "CC-Checker",
+        "python",
+        "telegram",
+        "telegram-bot",
+        "Exploit"
+    ],
+    "repository": "https://github.com/legendarykeys/Cc/",
+    "success_url": "/",
+    "image": "heroku/python"
+}
