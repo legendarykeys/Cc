@@ -1,14 +1,16 @@
 {
-    "name": "Checker",
-    "description": "Checks Cc",
+    "name": "CC Checker",
+    "description": "CC Checker",
     "keywords": [
-        "CC-Checker",
-        "Css",
-        "javaScript",
-        "php",
-        "Exploit"
+        "PHP",
     ],
-    "repository": "https://github.com/legendarykeys/Cc/",
+    "repository": "https://github.com/legendarykeys/Cc",
     "success_url": "/",
-    "image": "heroku/python"
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
 }
